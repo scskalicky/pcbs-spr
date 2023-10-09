@@ -7,6 +7,7 @@
     <script src="https://unpkg.com/@jspsych/plugin-html-keyboard-response@1.1.2"></script>
     <script src="https://unpkg.com/@jspsych/plugin-fullscreen@1.2.0"></script>
     <script src="https://unpkg.com/@jspsych-contrib/plugin-self-paced-reading@2.0.0"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-html-button-response@1.1.2"></script>
     <link href="https://unpkg.com/jspsych@7.3.3/css/jspsych.css" rel="stylesheet" type="text/css" />
   </head>
   <body></body>
@@ -22,6 +23,14 @@ const stories = pigs.concat(red)
 const fullscreen = {
   type: jsPsychFullscreen,
   fullscreen_mode: true
+}
+
+const basic_instructions = {
+  type: jsPsychHtmlButtonResponse,
+  stimulus: 'Hey, use the SPACEBAR to advance the text.',
+  choices: ['Ok!']
+
+
 }
 
     const spr_trial = {
@@ -43,7 +52,7 @@ const fullscreen = {
     ], timeline_variables: stories
     }
 timeline = []
-timeline.push(fullscreen, spr_trial)
+timeline.push(fullscreen, basic_instructions, spr_trial)
     jsPsych.run(timeline);
   </script>
 </html>
