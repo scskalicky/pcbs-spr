@@ -5,6 +5,7 @@
     <script src='pcbs.js'></script>
     <script src="https://unpkg.com/jspsych@7.3.3"></script>
     <script src="https://unpkg.com/@jspsych/plugin-html-keyboard-response@1.1.2"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-fullscreen@1.2.0"></script>
     <script src="https://unpkg.com/@jspsych-contrib/plugin-self-paced-reading@2.0.0"></script>
     <link href="https://unpkg.com/jspsych@7.3.3/css/jspsych.css" rel="stylesheet" type="text/css" />
   </head>
@@ -17,6 +18,11 @@
 });
 
 const stories = pigs.concat(red)
+
+const fullscreen = {
+  type: jsPsychFullscreen,
+  fullscreen_mode: true
+}
 
     const spr_trial = {
         timeline: [
@@ -36,7 +42,8 @@ const stories = pigs.concat(red)
         }
     ], timeline_variables: stories
     }
-
-    jsPsych.run([spr_trial]);
+timeline = []
+timeline.push(fullscreen, spr_trial)
+    jsPsych.run(timeline);
   </script>
 </html>
