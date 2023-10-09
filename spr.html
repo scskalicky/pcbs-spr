@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My experiment</title>
+    <script src='pcbs.js'></script>
+    <script src="https://unpkg.com/jspsych@7.3.3"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-html-keyboard-response@1.1.2"></script>
+    <script src="https://unpkg.com/@jspsych-contrib/plugin-self-paced-reading@2.0.0"></script>
+    <link href="https://unpkg.com/jspsych@7.3.3/css/jspsych.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body></body>
+  <script>
+    const jsPsych = initJsPsych({
+    on_finish: function() {
+    jsPsych.data.displayData();
+    }
+});
+
+const stories = pigs.concat(red)
+
+
+    const spr_trial = {
+        timeline: [
+            {
+        type: jsPsychSelfPacedReading,
+        sentence: jsPsych.timelineVariable('s'),
+        mask_character: '_',
+        mask_on_word: true,
+        canvas_size: [800, 500],
+        canvas_border: '1px solid black',
+        font_size: '20px',
+        y_align: 'bottom',
+        line_height: 40,
+        xy_position: [-375, -200],
+        x_align: 'left',
+        mask_type: 2 // cumulative
+        }
+    ], timeline_variables: stories
+    }
+
+    jsPsych.run([spr_trial]);
+  </script>
+</html>
