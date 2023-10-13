@@ -220,7 +220,7 @@ const red = [
 },
 
 {
-    s: "\"Grandma, what a big nose you have - only relatively,\n " +
+    s: "\"Grandma, what a big nose you have; only relatively,\n " +
     "of course, and certainly attractive in its own way\""
 },
 

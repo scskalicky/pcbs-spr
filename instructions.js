@@ -12,7 +12,7 @@ var pre_spr_practice =
 }
 var after_spr_practice = {
     type: jsPsychHtmlButtonResponse,
-    stimulus: "<p class = 'instructions'>Great work! Now that you know how the texts will be presented, it is time to read a longer text, comprised of introduction and first two chapters of a short book.<br><br>You will read the texts one after another - once you finish the first text, you will immediately begin reading the next.<br><br> When you are done reading the texts, you will be asked some questions about the texts. Try to keep all the texts in mind while you answer the questions. When you are ready, click the button to begin.</p>",
+    stimulus: "<p class = 'instructions'>Great work! Now that you know how the texts will be presented, it is time to read a longer text, comprised of the introduction and first two chapters of a short book.<br><br>You will read the texts one after another - once you finish the first text, you will immediately begin reading the next.<br><br> When you are done reading the texts, you will be asked some questions about the texts. Try to keep all the texts in mind while you answer the questions. When you are ready, click the button to begin.</p>",
     choices: ["I'm Ready!"]
 }
 var pre_spr = {
