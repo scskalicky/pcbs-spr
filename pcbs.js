@@ -74,91 +74,91 @@ const intro = [
 
 
 const pigs = [
-    {
-    s: "1. THREE LITTLE PIGS\n " +
-    "Once there were three little pigs who lived together \n " +
-    "in mutual respect and in harmony with their environment.\n " +
-    "Using materials that were indigenous to the area, they\n " +
-    "each built a beautiful house. One pig built a house of straw,\n "+
-    "one a house of sticks, and one a house of dung, clay, and\n "+
-    "creeper vines shaped into bricks and baked in a small kiln.\n " +
-    "When they were finished, the pigs were satisfied with their\n " +
-    "work and settled back to live in peace and self-determination."
-},
-{
-    s: "But their idyll was soon shattered. One day, along came\n " +
-    "a big, bad wolf with expansionist ideas. He saw the pigs\n " +
-    "and grew very hungry in both a physical and an ideological\n " +
-    "sense. When the pigs saw the wolf, they ran into the house\n " +
-    "of straw. The wolf ran up to the house and banged on the\n " +
-    "door shouting, \"Little pigs, little pigs, let me in!\""
-}, 
+//     {
+//     s: "1. THREE LITTLE PIGS\n " +
+//     "Once there were three little pigs who lived together \n " +
+//     "in mutual respect and in harmony with their environment.\n " +
+//     "Using materials that were indigenous to the area, they\n " +
+//     "each built a beautiful house. One pig built a house of straw,\n "+
+//     "one a house of sticks, and one a house of dung, clay, and\n "+
+//     "creeper vines shaped into bricks and baked in a small kiln.\n " +
+//     "When they were finished, the pigs were satisfied with their\n " +
+//     "work and settled back to live in peace and self-determination."
+// },
+// {
+//     s: "But their idyll was soon shattered. One day, along came\n " +
+//     "a big, bad wolf with expansionist ideas. He saw the pigs\n " +
+//     "and grew very hungry in both a physical and an ideological\n " +
+//     "sense. When the pigs saw the wolf, they ran into the house\n " +
+//     "of straw. The wolf ran up to the house and banged on the\n " +
+//     "door shouting, \"Little pigs, little pigs, let me in!\""
+// }, 
 
-{
-    s: "The pigs shouted back, \"Your gunboat tactics hold\n " + 
-        "no fear for pigs defending their homes and culture.\"\n " + 
-        "But the wolf wasn't to be denied what he thought was\n "+
-        "his manifest destiny. So he huffed and puffed and blew\n " +
-        "down the house of straw. The frightened pigs ran to the \n " + 
-        "house of sticks, with the wolf in hot pursuit. Where the\n " + 
-        "house of straw had stood, other wolves bought up the land \n " +
-        "and started a banana plantation."
-},
-{
-s: "At the house of sticks, the wolf again banged on the door\n " +
-  "and shouted, \"Little pigs, little pigs, let me in!\"\n " +
-   "The little pigs shouted back, \"Go to hell, you carnivorous,\n " +
-    "imperialistic oppressor!\" At this, the wolf chuckled\n " +
-    "condescendingly. He thought to himself: \"They are so \n " +
-    "childlike in their ways. It will be a shame to see them go,\n " +
-    "but progress cannot be stopped.\""
-},
-{
-    s: "So the wolf huffed and puffed and blew down the house of\n " + 
-        "sticks. The pigs ran to the house of bricks, with the wolf\n " +
-        "close at their heels. Where the house of sticks had stood,\n " +
-        "other wolves built a time-share condo resort complex for\n " +
-        "vacationing wolves, with each unit a fiberglass reconstruction\n " +
-        "of the house of sticks, as well as native curio shops,\n " +
-        "snorkeling, and dolphin shows."
-},
+// {
+//     s: "The pigs shouted back, \"Your gunboat tactics hold\n " + 
+//         "no fear for pigs defending their homes and culture.\"\n " + 
+//         "But the wolf wasn't to be denied what he thought was\n "+
+//         "his manifest destiny. So he huffed and puffed and blew\n " +
+//         "down the house of straw. The frightened pigs ran to the \n " + 
+//         "house of sticks, with the wolf in hot pursuit. Where the\n " + 
+//         "house of straw had stood, other wolves bought up the land \n " +
+//         "and started a banana plantation."
+// },
+// {
+// s: "At the house of sticks, the wolf again banged on the door\n " +
+//   "and shouted, \"Little pigs, little pigs, let me in!\"\n " +
+//    "The little pigs shouted back, \"Go to hell, you carnivorous,\n " +
+//     "imperialistic oppressor!\" At this, the wolf chuckled\n " +
+//     "condescendingly. He thought to himself: \"They are so \n " +
+//     "childlike in their ways. It will be a shame to see them go,\n " +
+//     "but progress cannot be stopped.\""
+// },
+// {
+//     s: "So the wolf huffed and puffed and blew down the house of\n " + 
+//         "sticks. The pigs ran to the house of bricks, with the wolf\n " +
+//         "close at their heels. Where the house of sticks had stood,\n " +
+//         "other wolves built a time-share condo resort complex for\n " +
+//         "vacationing wolves, with each unit a fiberglass reconstruction\n " +
+//         "of the house of sticks, as well as native curio shops,\n " +
+//         "snorkeling, and dolphin shows."
+// },
 
-{
-    s: "At the house of bricks, the wolf again banged on the door\n " +
-       "and shouted, \"Little pigs, little pigs, let me in!\" This time\n " +
-       "in response the little pigs sang songs of solidarity and\n " +
-       "wrote letters of protest to the United Nations."
-},
+// {
+//     s: "At the house of bricks, the wolf again banged on the door\n " +
+//        "and shouted, \"Little pigs, little pigs, let me in!\" This time\n " +
+//        "in response the little pigs sang songs of solidarity and\n " +
+//        "wrote letters of protest to the United Nations."
+// },
 
-{
-    s: "By now the wolf was getting angry at the pigs' refusal\n "+
-        "to see the situation from the carnivore's point of view.\n "+
-        "So he huffed and puffed, and huffed and puffed, then grabbed\n "+
-        "his chest and fell over dead of a massive heart attack brought\n "  +
-         "on by eating too many fatty foods. The three little pigs\n "+ 
-         "rejoiced that justice had triumphed and did a little dance\n " +
-         "around the corpse of the wolf."
-},
+// {
+//     s: "By now the wolf was getting angry at the pigs' refusal\n "+
+//         "to see the situation from the carnivore's point of view.\n "+
+//         "So he huffed and puffed, and huffed and puffed, then grabbed\n "+
+//         "his chest and fell over dead of a massive heart attack brought\n "  +
+//          "on by eating too many fatty foods. The three little pigs\n "+ 
+//          "rejoiced that justice had triumphed and did a little dance\n " +
+//          "around the corpse of the wolf."
+// },
 
-{
-    s: 
-        "Their next step was to liberate their homeland.\n " + 
-        "They gathered together a band of other pigs who had been\n " + 
-        "forced off their lands. This new brigade of porcinistas\n " + 
-        "attacked the resort complex with machine guns and rocket\n " +
-        "launchers and slaughtered the cruel wolf oppressors, sending\n " +
-        "a clear signal to the rest of the hemisphere not to meddle\n " +
-        "in their internal affairs."
-},
+// {
+//     s: 
+//         "Their next step was to liberate their homeland.\n " + 
+//         "They gathered together a band of other pigs who had been\n " + 
+//         "forced off their lands. This new brigade of porcinistas\n " + 
+//         "attacked the resort complex with machine guns and rocket\n " +
+//         "launchers and slaughtered the cruel wolf oppressors, sending\n " +
+//         "a clear signal to the rest of the hemisphere not to meddle\n " +
+//         "in their internal affairs."
+// },
 
-{
-    s: "Then the pigs set up a model socialist democracy with \n" + 
-    "free education, universal health care, and affordable \n" + 
-    "housing for everyone. \n" + 
-    "Please note: The wolf in this story was a metaphorical\n" + 
-    "construct. No actual wolves were harmed in the writing\n" +
-    "of this story."
-}
+// {
+//     s: "Then the pigs set up a model socialist democracy with \n" + 
+//     "free education, universal health care, and affordable \n" + 
+//     "housing for everyone. \n" + 
+//     "Please note: The wolf in this story was a metaphorical\n" + 
+//     "construct. No actual wolves were harmed in the writing\n" +
+//     "of this story."
+// }
 ]
 
 
