@@ -26,7 +26,7 @@ var info_sheet =
 + 
 "<p class = 'consent_prose'>My name is Stephen Skalicky and I am an academic staff member in The School of Linguistics and Applied Language Studies at Te Herenga Waka | Victoria University of Wellington.</p>" 
 +  
-"<p class = 'consent_headings'>He aha te wh&amacr;inga m&omacr; t&emacr;nei rangahau / What is the aim of the project??</p>" 
+"<p class = 'consent_headings'>He aha te wh&amacr;inga m&omacr; t&emacr;nei rangahau / What is the aim of the project?</p>" 
 + 
 "<p class = 'consent_prose'>This project will explore how people read and understand short stories written in English. Your participation will support this research by providing information as a native speaker of English who lives in the United States of America. This research has been approved by the Victoria University of Wellington Human Ethics Committee #30890.</p>" 
 + 

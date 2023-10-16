@@ -24,7 +24,7 @@ var pre_spr = {
 
 var reading_comp_instructions = {
     type: jsPsychHtmlButtonResponse,
-    stimulus: "<p class = 'instructions'> Now it is time for another reading task. In this task you will read six short texts taken from the online encyclopedia <i>Wikipedia</i>. Unlike the previous stories, you will see the whole text at once. After reading each text, you will answer three multiple choice questions about the text. The questions will only appear after you have read the text. When you are ready, click the button to read the texts.</p>",
+    stimulus: "<p class = 'instructions'> Now it is time for another reading task. In this task you will read six short encyclopedia texts about a person, event, or thing. Unlike the previous stories, you will see the whole text at once. After reading each text, you will answer three multiple choice questions about the text. The questions will only appear after you have read the text. When you are ready, click the button to read the texts.</p>",
     choices: ['I\'m Ready!']
 }
 

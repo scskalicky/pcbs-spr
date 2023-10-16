@@ -74,7 +74,7 @@ const intro = [
 const pigs = [
     {
     s: "1. THREE LITTLE PIGS\n " +
-    "Once there were three little pigs who lived together \n " +
+    "Once there were three little pigs who lived together\n " +
     "in mutual respect and in harmony with their environment.\n " +
     "Using materials that were indigenous to the area, they\n " +
     "each built a beautiful house. One pig built a house of straw,\n "+
@@ -97,9 +97,9 @@ const pigs = [
         "no fear for pigs defending their homes and culture.\"\n " + 
         "But the wolf wasn't to be denied what he thought was\n "+
         "his manifest destiny. So he huffed and puffed and blew\n " +
-        "down the house of straw. The frightened pigs ran to the \n " + 
+        "down the house of straw. The frightened pigs ran to the\n " + 
         "house of sticks, with the wolf in hot pursuit. Where the\n " + 
-        "house of straw had stood, other wolves bought up the land \n " +
+        "house of straw had stood, other wolves bought up the land\n " +
         "and started a banana plantation."
 },
 {
@@ -107,7 +107,7 @@ s: "At the house of sticks, the wolf again banged on the door\n " +
   "and shouted, \"Little pigs, little pigs, let me in!\"\n " +
    "The little pigs shouted back, \"Go to hell, you carnivorous,\n " +
     "imperialistic oppressor!\" At this, the wolf chuckled\n " +
-    "condescendingly. He thought to himself: \"They are so \n " +
+    "condescendingly. He thought to himself: \"They are so\n " +
     "childlike in their ways. It will be a shame to see them go,\n " +
     "but progress cannot be stopped.\""
 },
@@ -150,11 +150,11 @@ s: "At the house of sticks, the wolf again banged on the door\n " +
 },
 
 {
-    s: "Then the pigs set up a model socialist democracy with \n" + 
-    "free education, universal health care, and affordable \n" + 
-    "housing for everyone. \n" + 
-    "Please note: The wolf in this story was a metaphorical\n" + 
-    "construct. No actual wolves were harmed in the writing\n" +
+    s: "Then the pigs set up a model socialist democracy with\n " + 
+    "free education, universal health care, and affordable\n " + 
+    "housing for everyone.\n " + 
+    "Please note: The wolf in this story was a metaphorical\n " + 
+    "construct. No actual wolves were harmed in the writing\n " +
     "of this story."
 }
 ]
@@ -238,7 +238,7 @@ const red = [
 },
 
 {
-    s: "Her screams were heard by a passing woodchopper person \n " +
+    s: "Her screams were heard by a passing woodchopper person\n " +
     "(or log-fuel technician, as he preferred to be called). When\n " +
     "he burst into the cottage, he saw melee there and tried to\n " +
     "intervene. But as he raised his ax, Red Riding Hood and the\n " +

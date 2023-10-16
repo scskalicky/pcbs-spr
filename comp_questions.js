@@ -1,6 +1,14 @@
 /*
-
 comprehension questions for after the SPR texts
+
+Pfaff and Gibbs Exp 2
+Ask people to rate how satirical. 
+If they are above a score, ask why they felt it was satirical
+If they are below a score, ask them why the felt it was NOT satirical. 
+I wonder if I should have some people just read the whole texts..? 
+Or could this just directly replicate Pfaff and Gibbs? We could do that . 
+Do i want to collect ALL of these variables to make this mass comm, or am I interested in psycholing?
+about 100 participants. one well-designed study, or 2 smaller studies? I reckon one ?
 
 */
 
